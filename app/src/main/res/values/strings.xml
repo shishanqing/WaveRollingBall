@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WaveRollingBall</string>
+    <string name="on_changing">充电中...</string>
+</resources>
